@@ -67,7 +67,7 @@ this.entorno = new Entorno(this, "Perrita", 800, 600);
 			return 3;
 		}
 		return 5;
-		//PRUEBA ASL,KMDLAÑSJDLSA JKLÑASJDLPÑÁSDÑLASJDÑLSAJKDLÑASSDA
+	
 		
 	}
 	//Funcion que no permite salir del entorno
